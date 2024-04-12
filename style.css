@@ -1,0 +1,129 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(235, 235, 235);
+    margin: 0;
+}
+
+.h1 {
+    font-size: 1em;
+    margin-right: 40%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 96%;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+
+#h1 {
+    font-size: 1em;
+    margin-right: 40%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 2%;
+    width: 100%;
+}
+
+.opacite {
+    opacity: 40%;
+    margin-left: 1%;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    padding: 2%;
+    border-radius: 1px;
+    width: 100%;
+}
+
+.opacite1 {
+    opacity: 40%;
+}
+
+.underline {
+    text-decoration: none;
+    color: rgb(12, 126, 255);
+}
+
+.margin {
+    font-size: 1em;
+    margin-right: 40%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 96%;
+    margin-left: 3%;
+    padding-left: 2%;
+    margin-top: 2%;
+}
+
+.margin1 {
+    margin-left: 15%;
+    background-color: rgb(255, 255, 255);
+    padding: 1%;
+    padding-left: 5%;
+    border-radius: 40px;
+}
+
+#margin {
+    margin-left: 15%;
+}
+
+.test {
+    padding: 1%;
+}
+
+.test1 {
+    padding: 9%;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.margin2 {
+    margin-right: 10%;
+    background-color: rgb(255, 255, 255);
+    padding: 3%;
+    padding-left: 5%;
+    border-radius: 5px;
+    width: 90%;
+    height: 150%;
+    margin-left: 3%;
+}
+
+.flex2 {
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+}
+
+body {
+    display: flex;
+}
+
+.aside {
+    background-color: rgb(39, 39, 39);
+    color: white;
+    width: 10%;
+    height: 90em;
+    padding-left: 1%;
+    border-bottom-right-radius: 2%;
+}
+
+.font {
+    font-size: 100%;
+    font-weight: 450;
+    font-family: "Roboto", sans-serif;
+    margin-left: 5%;
+    background-color: rgb(142, 116, 116);
+}
+
+.form {
+    width: 100%;
+}
+
+.font-basic-demo {
+    opacity: 85%;
+}
