@@ -24,7 +24,9 @@ body {
 
 .opacite {
     opacity: 40%;
-    margin-left: 1%;
+    margin-left: 15px;
+    font-size: 0.80em;
+    display: inline;
 }
 
 header {
@@ -67,19 +69,18 @@ header {
 }
 
 .test {
-    padding: 1%;
-}
-
-.test1 {
-    padding: 9%;
+    margin-left: 20%;
 }
 
 th {
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0, 0.2);
+    width: 170px;
 }
 
 td {
-    border: 1px solid black;
+    width: 10%;
+    padding-bottom: 20px;
+    border: 1px solid rgb(0, 0, 0, 0.2);
 }
 
 .margin2 {
@@ -89,7 +90,7 @@ td {
     padding-left: 5%;
     border-radius: 5px;
     width: 90%;
-    height: 150%;
+    height: 70%;
     margin-left: 3%;
 }
 
@@ -105,9 +106,9 @@ body {
 
 .aside {
     background-color: rgb(39, 39, 39);
-    color: white;
+    color: rgb(179, 179, 179);
     width: 10%;
-    height: 90em;
+    height: 66.5em;
     padding-left: 1%;
     border-bottom-right-radius: 2%;
 }
@@ -126,4 +127,23 @@ body {
 
 .font-basic-demo {
     opacity: 85%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.font2 {
+    font-size: 0.87em;
+    opacity: 60%;
+}
+
+.opacite2 {
+    opacity: 40%;
+    font-size: 0.80em;
+    display: inline;
+}
+
+.icone {
+    border-radius: 10px;
 }
